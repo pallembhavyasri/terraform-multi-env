@@ -1,4 +1,4 @@
 bucket = "expense-multi-dev"
 key    = "multi-env-dev" #we can give our key name
 region = "us-east-1"
-dynamodb_table = "expence-dev-locking"
+dynamodb_table = "expense-dev-locking"
