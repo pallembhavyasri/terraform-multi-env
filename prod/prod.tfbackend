@@ -1,0 +1,4 @@
+bucket = "expense-multi-prod"
+key    = "multi-env-prod" #we can give our key name
+region = "us-east-1"
+dynamodb_table = "expense-prod-locking"
