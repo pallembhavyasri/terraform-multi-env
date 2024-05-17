@@ -4,4 +4,4 @@ instance_names = {
     frontend-prod = "t3.small"
 }
 
-environment = "prod"
+enviroment = "prod"
