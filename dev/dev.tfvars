@@ -4,4 +4,4 @@ instance_names = {
     frontend-dev = "t3.small"
 }
 
-environment = "dev"
+enviroment = "dev"
